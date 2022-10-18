@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">biodata</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFhZ2FzMCIsImEiOiJjbDlhZzg2M2MzZG93NDJsZndxbjE4NjMwIn0.yjaoWn2an0FKBzVRUcZmWA</string>
+</resources>
